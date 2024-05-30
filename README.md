@@ -15,8 +15,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 ## Credits, and Thanks to
 
 * [BRANDED Telegram](https://telegram.dog/BRANDEDKING82)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Manuel15](https://telegram.dog/manuei15) for his [DelAllBot](https://telegram.dog/delall_bot)
+
 
 
 ### Current Features
